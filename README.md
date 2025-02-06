@@ -8,7 +8,7 @@ This is a space where I post my code, work on projects collaboratively, or showc
 
 - 🚀 Full Stack Developer in the making — proficient in Frontend (React, Tailwind CSS) & Backend (Node.js, Express.js, PostgreSQL).
 - 🧠 Always seeking ways to solve real-world problems through code.
-- 🌐 Visit my portfolio on [thomaspratama.vercel.app](https://thomaspratama.vercel.app)
+- 🌐 Visit my portfolio on [thomaspratama.framer.website](https://thomaspratama.framer.website/)
 - 📩 Contact Me @ [pratama.thomas@gmail.com](mailto:pratama.thomas@gmail.com)
 
 ## 🛠️ Tech Stack
